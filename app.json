@@ -33,7 +33,7 @@
       {
         "plan": "heroku-postgresql"
         }
-      },
+      ,
       {
         "plan": "papertrail:choklad"
       }
